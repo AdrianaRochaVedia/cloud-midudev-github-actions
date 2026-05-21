@@ -1,1 +1,1 @@
-[![Lo que queramos](https://github.com/midudev/midudev-aprender-tdd/actions/workflows/node.js.yml/badge.svg)](https://github.com/midudev/midudev-aprender-tdd/actions/workflows/node.js.yml)
+[![Platzi CI](https://github.com/AdrianaRochaVedia/cloud-midudev-github-actions/actions/workflows/node.js.yml/badge.svg)](https://github.com/AdrianaRochaVedia/cloud-midudev-github-actions/actions/workflows/node.js.yml)
